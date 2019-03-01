@@ -1,0 +1,46 @@
+﻿@model IEnumerable<FourthDimensionOEC.Models.Crop>
+
+@{
+    ViewData["Title"] = "Crop Listing";  
+}
+
+<h2>Crop Listing</h2>
+
+<p>
+    <!--a asp-action="Create">Add Crop</a-->
+    <a asp-action="Create" value="Create Crop" class="btn btn-success">Add Crop</a>
+</p>
+<table class="table">
+    <thead>      
+        <tr>
+            <th>              
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Image)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                <a asp-controller="FDVariety" asp-action="Index" asp-route-id="@item.CropId" asp-route-name="@item.Name">@item.Name</a>
+
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Image)
+            </td>
+            <td>
+                <a asp-controller="FDPlot" asp-action="Index" asp-route-id="@item.CropId" asp-route-type="crop">Show Plots</a>
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.CropId">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.CropId">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.CropId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

@@ -1,0 +1,70 @@
+﻿@model IEnumerable<FourthDimensionOEC.Models.Plot>
+@using Microsoft.AspNetCore.Http
+
+@{
+    ViewData["Title"] = "Plot List";
+}
+
+<h2>Plot List</h2>
+
+<p>
+    <a asp-action="Create" value="Create Plot" class="btn btn-success">Add Plot</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.DatePlanted)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Farm) Name
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Variety.Crop) Name
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Variety) Name
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Cec)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Treatment)
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.DatePlanted)
+                </td>
+                <td>
+                    @Html.DisplayFor(model => item.Farm.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(model => item.Variety.Crop.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(model => item.Variety.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(model => item.Cec)
+                </td>
+                <td>
+                    @foreach (var name in item.Treatment)
+                    {
+                        @name.Name.ToString();
+                        <br />
+                    }
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.PlotId">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@item.PlotId">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@item.PlotId">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

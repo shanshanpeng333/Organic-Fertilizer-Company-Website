@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="FDOEC20190213082510" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\program\ 2230\ MS\ web\ techn\\Assignment\\Assignment\ 2\\FourthDimensionOEC\\FourthDimensionOEC\\obj\\Release\\netcoreapp2\.1\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>

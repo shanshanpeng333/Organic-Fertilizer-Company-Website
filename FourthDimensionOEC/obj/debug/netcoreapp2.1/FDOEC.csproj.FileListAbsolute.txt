@@ -1,0 +1,289 @@
+C:\Users\Gary\source\repos\FourthDimensionOEC\FourthDimensionOEC\bin\Debug\netcoreapp2.1\FDOEC.deps.json
+C:\Users\Gary\source\repos\FourthDimensionOEC\FourthDimensionOEC\bin\Debug\netcoreapp2.1\FDOEC.runtimeconfig.json
+C:\Users\Gary\source\repos\FourthDimensionOEC\FourthDimensionOEC\bin\Debug\netcoreapp2.1\FDOEC.runtimeconfig.dev.json
+C:\Users\Gary\source\repos\FourthDimensionOEC\FourthDimensionOEC\bin\Debug\netcoreapp2.1\FDOEC.dll
+C:\Users\Gary\source\repos\FourthDimensionOEC\FourthDimensionOEC\bin\Debug\netcoreapp2.1\FDOEC.pdb
+C:\Users\Gary\source\repos\FourthDimensionOEC\FourthDimensionOEC\bin\Debug\netcoreapp2.1\FDOEC.Views.dll
+C:\Users\Gary\source\repos\FourthDimensionOEC\FourthDimensionOEC\bin\Debug\netcoreapp2.1\FDOEC.Views.pdb
+C:\Users\Gary\source\repos\FourthDimensionOEC\FourthDimensionOEC\obj\Debug\netcoreapp2.1\FDOEC.csprojAssemblyReference.cache
+C:\Users\Gary\source\repos\FourthDimensionOEC\FourthDimensionOEC\obj\Debug\netcoreapp2.1\FDOEC.csproj.CoreCompileInputs.cache
+C:\Users\Gary\source\repos\FourthDimensionOEC\FourthDimensionOEC\obj\Debug\netcoreapp2.1\FDOEC.RazorAssemblyInfo.cache
+C:\Users\Gary\source\repos\FourthDimensionOEC\FourthDimensionOEC\obj\Debug\netcoreapp2.1\FDOEC.RazorAssemblyInfo.cs
+C:\Users\Gary\source\repos\FourthDimensionOEC\FourthDimensionOEC\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\Gary\source\repos\FourthDimensionOEC\FourthDimensionOEC\obj\Debug\netcoreapp2.1\FDOEC.AssemblyInfoInputs.cache
+C:\Users\Gary\source\repos\FourthDimensionOEC\FourthDimensionOEC\obj\Debug\netcoreapp2.1\FDOEC.AssemblyInfo.cs
+C:\Users\Gary\source\repos\FourthDimensionOEC\FourthDimensionOEC\obj\Debug\netcoreapp2.1\FDOEC.TagHelpers.input.cache
+C:\Users\Gary\source\repos\FourthDimensionOEC\FourthDimensionOEC\obj\Debug\netcoreapp2.1\FDOEC.TagHelpers.output.cache
+C:\Users\Gary\source\repos\FourthDimensionOEC\FourthDimensionOEC\obj\Debug\netcoreapp2.1\FDOEC.RazorCoreGenerate.cache
+C:\Users\Gary\source\repos\FourthDimensionOEC\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\Gary\source\repos\FourthDimensionOEC\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\Views\FDCrop\Create.g.cshtml.cs
+C:\Users\Gary\source\repos\FourthDimensionOEC\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\Views\FDCrop\Delete.g.cshtml.cs
+C:\Users\Gary\source\repos\FourthDimensionOEC\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\Views\FDCrop\Details.g.cshtml.cs
+C:\Users\Gary\source\repos\FourthDimensionOEC\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\Views\FDCrop\Edit.g.cshtml.cs
+C:\Users\Gary\source\repos\FourthDimensionOEC\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\Views\FDCrop\Index.g.cshtml.cs
+C:\Users\Gary\source\repos\FourthDimensionOEC\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\Views\FDFertilizer\Create.g.cshtml.cs
+C:\Users\Gary\source\repos\FourthDimensionOEC\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\Views\FDFertilizer\Delete.g.cshtml.cs
+C:\Users\Gary\source\repos\FourthDimensionOEC\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\Views\FDFertilizer\Details.g.cshtml.cs
+C:\Users\Gary\source\repos\FourthDimensionOEC\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\Views\FDFertilizer\Edit.g.cshtml.cs
+C:\Users\Gary\source\repos\FourthDimensionOEC\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\Views\FDFertilizer\Index.g.cshtml.cs
+C:\Users\Gary\source\repos\FourthDimensionOEC\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\Gary\source\repos\FourthDimensionOEC\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\Gary\source\repos\FourthDimensionOEC\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Gary\source\repos\FourthDimensionOEC\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Gary\source\repos\FourthDimensionOEC\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Gary\source\repos\FourthDimensionOEC\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Gary\source\repos\FourthDimensionOEC\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Gary\source\repos\FourthDimensionOEC\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\Gary\source\repos\FourthDimensionOEC\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Gary\source\repos\FourthDimensionOEC\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Gary\source\repos\FourthDimensionOEC\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Gary\source\repos\FourthDimensionOEC\FourthDimensionOEC\obj\Debug\netcoreapp2.1\FDOEC.RazorTargetAssemblyInfo.cache
+C:\Users\Gary\source\repos\FourthDimensionOEC\FourthDimensionOEC\obj\Debug\netcoreapp2.1\FDOEC.RazorTargetAssemblyInfo.cs
+C:\Users\Gary\source\repos\FourthDimensionOEC\FourthDimensionOEC\obj\Debug\netcoreapp2.1\FDOEC.Views.pdb
+C:\Users\Gary\source\repos\FourthDimensionOEC\FourthDimensionOEC\obj\Debug\netcoreapp2.1\FDOEC.dll
+C:\Users\Gary\source\repos\FourthDimensionOEC\FourthDimensionOEC\obj\Debug\netcoreapp2.1\FDOEC.pdb
+C:\Users\Gary\source\repos\FourthDimensionOEC\FourthDimensionOEC\obj\Debug\netcoreapp2.1\FDOEC.csproj.CopyComplete
+C:\program 2230 MS web techn\Assignment\Assignment 2\FourthDimensionOEC\FourthDimensionOEC\bin\Debug\netcoreapp2.1\FDOEC.deps.json
+C:\program 2230 MS web techn\Assignment\Assignment 2\FourthDimensionOEC\FourthDimensionOEC\bin\Debug\netcoreapp2.1\FDOEC.runtimeconfig.json
+C:\program 2230 MS web techn\Assignment\Assignment 2\FourthDimensionOEC\FourthDimensionOEC\bin\Debug\netcoreapp2.1\FDOEC.runtimeconfig.dev.json
+C:\program 2230 MS web techn\Assignment\Assignment 2\FourthDimensionOEC\FourthDimensionOEC\bin\Debug\netcoreapp2.1\FDOEC.dll
+C:\program 2230 MS web techn\Assignment\Assignment 2\FourthDimensionOEC\FourthDimensionOEC\bin\Debug\netcoreapp2.1\FDOEC.pdb
+C:\program 2230 MS web techn\Assignment\Assignment 2\FourthDimensionOEC\FourthDimensionOEC\bin\Debug\netcoreapp2.1\FDOEC.Views.dll
+C:\program 2230 MS web techn\Assignment\Assignment 2\FourthDimensionOEC\FourthDimensionOEC\bin\Debug\netcoreapp2.1\FDOEC.Views.pdb
+C:\program 2230 MS web techn\Assignment\Assignment 2\FourthDimensionOEC\FourthDimensionOEC\obj\Debug\netcoreapp2.1\FDOEC.csprojAssemblyReference.cache
+C:\program 2230 MS web techn\Assignment\Assignment 2\FourthDimensionOEC\FourthDimensionOEC\obj\Debug\netcoreapp2.1\FDOEC.csproj.CoreCompileInputs.cache
+C:\program 2230 MS web techn\Assignment\Assignment 2\FourthDimensionOEC\FourthDimensionOEC\obj\Debug\netcoreapp2.1\FDOEC.RazorAssemblyInfo.cache
+C:\program 2230 MS web techn\Assignment\Assignment 2\FourthDimensionOEC\FourthDimensionOEC\obj\Debug\netcoreapp2.1\FDOEC.RazorAssemblyInfo.cs
+C:\program 2230 MS web techn\Assignment\Assignment 2\FourthDimensionOEC\FourthDimensionOEC\obj\Debug\netcoreapp2.1\FDOEC.AssemblyInfoInputs.cache
+C:\program 2230 MS web techn\Assignment\Assignment 2\FourthDimensionOEC\FourthDimensionOEC\obj\Debug\netcoreapp2.1\FDOEC.AssemblyInfo.cs
+C:\program 2230 MS web techn\Assignment\Assignment 2\FourthDimensionOEC\FourthDimensionOEC\obj\Debug\netcoreapp2.1\FDOEC.TagHelpers.input.cache
+C:\program 2230 MS web techn\Assignment\Assignment 2\FourthDimensionOEC\FourthDimensionOEC\obj\Debug\netcoreapp2.1\FDOEC.TagHelpers.output.cache
+C:\program 2230 MS web techn\Assignment\Assignment 2\FourthDimensionOEC\FourthDimensionOEC\obj\Debug\netcoreapp2.1\FDOEC.RazorCoreGenerate.cache
+C:\program 2230 MS web techn\Assignment\Assignment 2\FourthDimensionOEC\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\program 2230 MS web techn\Assignment\Assignment 2\FourthDimensionOEC\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\Views\FDCrop\Create.g.cshtml.cs
+C:\program 2230 MS web techn\Assignment\Assignment 2\FourthDimensionOEC\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\Views\FDCrop\Delete.g.cshtml.cs
+C:\program 2230 MS web techn\Assignment\Assignment 2\FourthDimensionOEC\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\Views\FDCrop\Details.g.cshtml.cs
+C:\program 2230 MS web techn\Assignment\Assignment 2\FourthDimensionOEC\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\Views\FDCrop\Edit.g.cshtml.cs
+C:\program 2230 MS web techn\Assignment\Assignment 2\FourthDimensionOEC\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\Views\FDCrop\Index.g.cshtml.cs
+C:\program 2230 MS web techn\Assignment\Assignment 2\FourthDimensionOEC\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\Views\FDFertilizer\Create.g.cshtml.cs
+C:\program 2230 MS web techn\Assignment\Assignment 2\FourthDimensionOEC\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\Views\FDFertilizer\Delete.g.cshtml.cs
+C:\program 2230 MS web techn\Assignment\Assignment 2\FourthDimensionOEC\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\Views\FDFertilizer\Details.g.cshtml.cs
+C:\program 2230 MS web techn\Assignment\Assignment 2\FourthDimensionOEC\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\Views\FDFertilizer\Edit.g.cshtml.cs
+C:\program 2230 MS web techn\Assignment\Assignment 2\FourthDimensionOEC\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\Views\FDFertilizer\Index.g.cshtml.cs
+C:\program 2230 MS web techn\Assignment\Assignment 2\FourthDimensionOEC\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\program 2230 MS web techn\Assignment\Assignment 2\FourthDimensionOEC\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\program 2230 MS web techn\Assignment\Assignment 2\FourthDimensionOEC\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\program 2230 MS web techn\Assignment\Assignment 2\FourthDimensionOEC\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\program 2230 MS web techn\Assignment\Assignment 2\FourthDimensionOEC\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\program 2230 MS web techn\Assignment\Assignment 2\FourthDimensionOEC\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\program 2230 MS web techn\Assignment\Assignment 2\FourthDimensionOEC\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\program 2230 MS web techn\Assignment\Assignment 2\FourthDimensionOEC\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\program 2230 MS web techn\Assignment\Assignment 2\FourthDimensionOEC\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\program 2230 MS web techn\Assignment\Assignment 2\FourthDimensionOEC\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\program 2230 MS web techn\Assignment\Assignment 2\FourthDimensionOEC\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\program 2230 MS web techn\Assignment\Assignment 2\FourthDimensionOEC\FourthDimensionOEC\obj\Debug\netcoreapp2.1\FDOEC.RazorTargetAssemblyInfo.cache
+C:\program 2230 MS web techn\Assignment\Assignment 2\FourthDimensionOEC\FourthDimensionOEC\obj\Debug\netcoreapp2.1\FDOEC.RazorTargetAssemblyInfo.cs
+C:\program 2230 MS web techn\Assignment\Assignment 2\FourthDimensionOEC\FourthDimensionOEC\obj\Debug\netcoreapp2.1\FDOEC.Views.pdb
+C:\program 2230 MS web techn\Assignment\Assignment 2\FourthDimensionOEC\FourthDimensionOEC\obj\Debug\netcoreapp2.1\FDOEC.dll
+C:\program 2230 MS web techn\Assignment\Assignment 2\FourthDimensionOEC\FourthDimensionOEC\obj\Debug\netcoreapp2.1\FDOEC.pdb
+C:\program 2230 MS web techn\Assignment\Assignment 2\FourthDimensionOEC\FourthDimensionOEC\obj\Debug\netcoreapp2.1\FDOEC.csproj.CopyComplete
+C:\program 2230 MS web techn\Assignment\Assignment 2\FourthDimensionOEC\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\Views\FDVariety\Create.g.cshtml.cs
+C:\program 2230 MS web techn\Assignment\Assignment 2\FourthDimensionOEC\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\Views\FDVariety\Delete.g.cshtml.cs
+C:\program 2230 MS web techn\Assignment\Assignment 2\FourthDimensionOEC\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\Views\FDVariety\Details.g.cshtml.cs
+C:\program 2230 MS web techn\Assignment\Assignment 2\FourthDimensionOEC\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\Views\FDVariety\Edit.g.cshtml.cs
+C:\program 2230 MS web techn\Assignment\Assignment 2\FourthDimensionOEC\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\Views\FDVariety\Index.g.cshtml.cs
+C:\program 2230 MS web techn\Assignment\Assignment 2\FourthDimensionOEC\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\Views\FDPlot\Create.g.cshtml.cs
+C:\program 2230 MS web techn\Assignment\Assignment 2\FourthDimensionOEC\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\Views\FDPlot\Delete.g.cshtml.cs
+C:\program 2230 MS web techn\Assignment\Assignment 2\FourthDimensionOEC\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\Views\FDPlot\Details.g.cshtml.cs
+C:\program 2230 MS web techn\Assignment\Assignment 2\FourthDimensionOEC\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\Views\FDPlot\Edit.g.cshtml.cs
+C:\program 2230 MS web techn\Assignment\Assignment 2\FourthDimensionOEC\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\Views\FDPlot\Index.g.cshtml.cs
+C:\program 2230 MS web techn\Assignment\Assignment 2\FourthDimensionOEC\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\Views\Varieties\Create.g.cshtml.cs
+C:\program 2230 MS web techn\Assignment\Assignment 2\FourthDimensionOEC\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\Views\Varieties\Delete.g.cshtml.cs
+C:\program 2230 MS web techn\Assignment\Assignment 2\FourthDimensionOEC\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\Views\Varieties\Details.g.cshtml.cs
+C:\program 2230 MS web techn\Assignment\Assignment 2\FourthDimensionOEC\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\Views\Varieties\Edit.g.cshtml.cs
+C:\program 2230 MS web techn\Assignment\Assignment 2\FourthDimensionOEC\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\Views\Varieties\Index.g.cshtml.cs
+C:\program 2230 MS web techn\Assignment\Assignment 2\FourthDimensionOEC\FourthDimensionOEC\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\program 2230 MS web techn\Assignment\Assignment 2\FourthDimensionOEC\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\Views\FDPlot\Index - Copy.g.cshtml.cs
+C:\Users\Gary\source\repos\2230Assignment2\Shanshan\FourthDimensionOEC--2019-2-15\FourthDimensionOEC\obj\Debug\netcoreapp2.1\FDOEC.csprojAssemblyReference.cache
+C:\Users\Gary\source\repos\2230Assignment2\Shanshan\FourthDimensionOEC--2019-2-15\FourthDimensionOEC\obj\Debug\netcoreapp2.1\FDOEC.csproj.CoreCompileInputs.cache
+C:\Users\Gary\source\repos\2230Assignment2\Shanshan\FourthDimensionOEC--2019-2-15\FourthDimensionOEC\obj\Debug\netcoreapp2.1\FDOEC.RazorAssemblyInfo.cache
+C:\Users\Gary\source\repos\2230Assignment2\Shanshan\FourthDimensionOEC--2019-2-15\FourthDimensionOEC\obj\Debug\netcoreapp2.1\FDOEC.RazorAssemblyInfo.cs
+C:\Users\Gary\source\repos\2230Assignment2\Shanshan\FourthDimensionOEC--2019-2-15\FourthDimensionOEC\obj\Debug\netcoreapp2.1\FDOEC.AssemblyInfoInputs.cache
+C:\Users\Gary\source\repos\2230Assignment2\Shanshan\FourthDimensionOEC--2019-2-15\FourthDimensionOEC\obj\Debug\netcoreapp2.1\FDOEC.AssemblyInfo.cs
+C:\Users\Gary\source\repos\2230Assignment2\Shanshan\FourthDimensionOEC--2019-2-15\FourthDimensionOEC\obj\Debug\netcoreapp2.1\FDOEC.dll
+C:\Users\Gary\source\repos\2230Assignment2\Shanshan\FourthDimensionOEC--2019-2-15\FourthDimensionOEC\obj\Debug\netcoreapp2.1\FDOEC.pdb
+C:\Users\Gary\source\repos\2230Assignment2\Shanshan\FourthDimensionOEC--2019-2-15\FourthDimensionOEC\bin\Debug\netcoreapp2.1\FDOEC.deps.json
+C:\Users\Gary\source\repos\2230Assignment2\Shanshan\FourthDimensionOEC--2019-2-15\FourthDimensionOEC\bin\Debug\netcoreapp2.1\FDOEC.runtimeconfig.json
+C:\Users\Gary\source\repos\2230Assignment2\Shanshan\FourthDimensionOEC--2019-2-15\FourthDimensionOEC\bin\Debug\netcoreapp2.1\FDOEC.runtimeconfig.dev.json
+C:\Users\Gary\source\repos\2230Assignment2\Shanshan\FourthDimensionOEC--2019-2-15\FourthDimensionOEC\bin\Debug\netcoreapp2.1\FDOEC.dll
+C:\Users\Gary\source\repos\2230Assignment2\Shanshan\FourthDimensionOEC--2019-2-15\FourthDimensionOEC\bin\Debug\netcoreapp2.1\FDOEC.pdb
+C:\Users\Gary\source\repos\2230Assignment2\Shanshan\FourthDimensionOEC--2019-2-15\FourthDimensionOEC\bin\Debug\netcoreapp2.1\FDOEC.Views.dll
+C:\Users\Gary\source\repos\2230Assignment2\Shanshan\FourthDimensionOEC--2019-2-15\FourthDimensionOEC\bin\Debug\netcoreapp2.1\FDOEC.Views.pdb
+C:\Users\Gary\source\repos\2230Assignment2\Shanshan\FourthDimensionOEC--2019-2-15\FourthDimensionOEC\obj\Debug\netcoreapp2.1\FDOEC.TagHelpers.input.cache
+C:\Users\Gary\source\repos\2230Assignment2\Shanshan\FourthDimensionOEC--2019-2-15\FourthDimensionOEC\obj\Debug\netcoreapp2.1\FDOEC.TagHelpers.output.cache
+C:\Users\Gary\source\repos\2230Assignment2\Shanshan\FourthDimensionOEC--2019-2-15\FourthDimensionOEC\obj\Debug\netcoreapp2.1\FDOEC.RazorCoreGenerate.cache
+C:\Users\Gary\source\repos\2230Assignment2\Shanshan\FourthDimensionOEC--2019-2-15\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\Gary\source\repos\2230Assignment2\Shanshan\FourthDimensionOEC--2019-2-15\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\views\FDCrop\Create.g.cshtml.cs
+C:\Users\Gary\source\repos\2230Assignment2\Shanshan\FourthDimensionOEC--2019-2-15\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\views\FDCrop\Delete.g.cshtml.cs
+C:\Users\Gary\source\repos\2230Assignment2\Shanshan\FourthDimensionOEC--2019-2-15\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\views\FDCrop\Details.g.cshtml.cs
+C:\Users\Gary\source\repos\2230Assignment2\Shanshan\FourthDimensionOEC--2019-2-15\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\views\FDCrop\Edit.g.cshtml.cs
+C:\Users\Gary\source\repos\2230Assignment2\Shanshan\FourthDimensionOEC--2019-2-15\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\views\FDCrop\Index.g.cshtml.cs
+C:\Users\Gary\source\repos\2230Assignment2\Shanshan\FourthDimensionOEC--2019-2-15\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\views\FDFertilizer\Create.g.cshtml.cs
+C:\Users\Gary\source\repos\2230Assignment2\Shanshan\FourthDimensionOEC--2019-2-15\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\views\FDFertilizer\Delete.g.cshtml.cs
+C:\Users\Gary\source\repos\2230Assignment2\Shanshan\FourthDimensionOEC--2019-2-15\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\views\FDFertilizer\Details.g.cshtml.cs
+C:\Users\Gary\source\repos\2230Assignment2\Shanshan\FourthDimensionOEC--2019-2-15\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\views\FDFertilizer\Edit.g.cshtml.cs
+C:\Users\Gary\source\repos\2230Assignment2\Shanshan\FourthDimensionOEC--2019-2-15\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\views\FDFertilizer\Index.g.cshtml.cs
+C:\Users\Gary\source\repos\2230Assignment2\Shanshan\FourthDimensionOEC--2019-2-15\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\views\FDPlot\Create.g.cshtml.cs
+C:\Users\Gary\source\repos\2230Assignment2\Shanshan\FourthDimensionOEC--2019-2-15\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\views\FDPlot\Delete.g.cshtml.cs
+C:\Users\Gary\source\repos\2230Assignment2\Shanshan\FourthDimensionOEC--2019-2-15\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\views\FDPlot\Details.g.cshtml.cs
+C:\Users\Gary\source\repos\2230Assignment2\Shanshan\FourthDimensionOEC--2019-2-15\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\views\FDPlot\Edit.g.cshtml.cs
+C:\Users\Gary\source\repos\2230Assignment2\Shanshan\FourthDimensionOEC--2019-2-15\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\views\FDPlot\Index - Copy.g.cshtml.cs
+C:\Users\Gary\source\repos\2230Assignment2\Shanshan\FourthDimensionOEC--2019-2-15\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\views\FDPlot\Index.g.cshtml.cs
+C:\Users\Gary\source\repos\2230Assignment2\Shanshan\FourthDimensionOEC--2019-2-15\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\views\FDVariety\Create.g.cshtml.cs
+C:\Users\Gary\source\repos\2230Assignment2\Shanshan\FourthDimensionOEC--2019-2-15\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\views\FDVariety\Delete.g.cshtml.cs
+C:\Users\Gary\source\repos\2230Assignment2\Shanshan\FourthDimensionOEC--2019-2-15\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\views\FDVariety\Details.g.cshtml.cs
+C:\Users\Gary\source\repos\2230Assignment2\Shanshan\FourthDimensionOEC--2019-2-15\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\views\FDVariety\Edit.g.cshtml.cs
+C:\Users\Gary\source\repos\2230Assignment2\Shanshan\FourthDimensionOEC--2019-2-15\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\views\FDVariety\Index.g.cshtml.cs
+C:\Users\Gary\source\repos\2230Assignment2\Shanshan\FourthDimensionOEC--2019-2-15\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\views\Home\About.g.cshtml.cs
+C:\Users\Gary\source\repos\2230Assignment2\Shanshan\FourthDimensionOEC--2019-2-15\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\views\Home\Contact.g.cshtml.cs
+C:\Users\Gary\source\repos\2230Assignment2\Shanshan\FourthDimensionOEC--2019-2-15\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\views\Home\Index.g.cshtml.cs
+C:\Users\Gary\source\repos\2230Assignment2\Shanshan\FourthDimensionOEC--2019-2-15\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\views\Home\Privacy.g.cshtml.cs
+C:\Users\Gary\source\repos\2230Assignment2\Shanshan\FourthDimensionOEC--2019-2-15\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\views\Shared\Error.g.cshtml.cs
+C:\Users\Gary\source\repos\2230Assignment2\Shanshan\FourthDimensionOEC--2019-2-15\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Gary\source\repos\2230Assignment2\Shanshan\FourthDimensionOEC--2019-2-15\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\views\Shared\_Layout.g.cshtml.cs
+C:\Users\Gary\source\repos\2230Assignment2\Shanshan\FourthDimensionOEC--2019-2-15\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\Gary\source\repos\2230Assignment2\Shanshan\FourthDimensionOEC--2019-2-15\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Gary\source\repos\2230Assignment2\Shanshan\FourthDimensionOEC--2019-2-15\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\views\Varieties\Create.g.cshtml.cs
+C:\Users\Gary\source\repos\2230Assignment2\Shanshan\FourthDimensionOEC--2019-2-15\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\views\Varieties\Delete.g.cshtml.cs
+C:\Users\Gary\source\repos\2230Assignment2\Shanshan\FourthDimensionOEC--2019-2-15\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\views\Varieties\Details.g.cshtml.cs
+C:\Users\Gary\source\repos\2230Assignment2\Shanshan\FourthDimensionOEC--2019-2-15\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\views\Varieties\Edit.g.cshtml.cs
+C:\Users\Gary\source\repos\2230Assignment2\Shanshan\FourthDimensionOEC--2019-2-15\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\views\Varieties\Index.g.cshtml.cs
+C:\Users\Gary\source\repos\2230Assignment2\Shanshan\FourthDimensionOEC--2019-2-15\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\views\_ViewImports.g.cshtml.cs
+C:\Users\Gary\source\repos\2230Assignment2\Shanshan\FourthDimensionOEC--2019-2-15\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\views\_ViewStart.g.cshtml.cs
+C:\Users\Gary\source\repos\2230Assignment2\Shanshan\FourthDimensionOEC--2019-2-15\FourthDimensionOEC\obj\Debug\netcoreapp2.1\FDOEC.RazorTargetAssemblyInfo.cache
+C:\Users\Gary\source\repos\2230Assignment2\Shanshan\FourthDimensionOEC--2019-2-15\FourthDimensionOEC\obj\Debug\netcoreapp2.1\FDOEC.RazorTargetAssemblyInfo.cs
+C:\Users\Gary\source\repos\2230Assignment2\Shanshan\FourthDimensionOEC--2019-2-15\FourthDimensionOEC\obj\Debug\netcoreapp2.1\FDOEC.Views.pdb
+C:\Users\Gary\source\repos\2230Assignment2\Shanshan\FourthDimensionOEC--2019-2-15\FourthDimensionOEC\obj\Debug\netcoreapp2.1\FDOEC.csproj.CopyComplete
+C:\Users\Gary\source\repos\2230Assignment2\Shanshan\FourthDimensionOEC--2019-2-15\FourthDimensionOEC\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\psssh\Desktop\FourthDimensionOEC--2019-2-15\FourthDimensionOEC\bin\Debug\netcoreapp2.1\FDOEC.deps.json
+C:\Users\psssh\Desktop\FourthDimensionOEC--2019-2-15\FourthDimensionOEC\bin\Debug\netcoreapp2.1\FDOEC.runtimeconfig.json
+C:\Users\psssh\Desktop\FourthDimensionOEC--2019-2-15\FourthDimensionOEC\bin\Debug\netcoreapp2.1\FDOEC.runtimeconfig.dev.json
+C:\Users\psssh\Desktop\FourthDimensionOEC--2019-2-15\FourthDimensionOEC\bin\Debug\netcoreapp2.1\FDOEC.dll
+C:\Users\psssh\Desktop\FourthDimensionOEC--2019-2-15\FourthDimensionOEC\bin\Debug\netcoreapp2.1\FDOEC.pdb
+C:\Users\psssh\Desktop\FourthDimensionOEC--2019-2-15\FourthDimensionOEC\bin\Debug\netcoreapp2.1\FDOEC.Views.dll
+C:\Users\psssh\Desktop\FourthDimensionOEC--2019-2-15\FourthDimensionOEC\bin\Debug\netcoreapp2.1\FDOEC.Views.pdb
+C:\Users\psssh\Desktop\FourthDimensionOEC--2019-2-15\FourthDimensionOEC\obj\Debug\netcoreapp2.1\FDOEC.csprojAssemblyReference.cache
+C:\Users\psssh\Desktop\FourthDimensionOEC--2019-2-15\FourthDimensionOEC\obj\Debug\netcoreapp2.1\FDOEC.csproj.CoreCompileInputs.cache
+C:\Users\psssh\Desktop\FourthDimensionOEC--2019-2-15\FourthDimensionOEC\obj\Debug\netcoreapp2.1\FDOEC.RazorAssemblyInfo.cache
+C:\Users\psssh\Desktop\FourthDimensionOEC--2019-2-15\FourthDimensionOEC\obj\Debug\netcoreapp2.1\FDOEC.RazorAssemblyInfo.cs
+C:\Users\psssh\Desktop\FourthDimensionOEC--2019-2-15\FourthDimensionOEC\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\psssh\Desktop\FourthDimensionOEC--2019-2-15\FourthDimensionOEC\obj\Debug\netcoreapp2.1\FDOEC.AssemblyInfoInputs.cache
+C:\Users\psssh\Desktop\FourthDimensionOEC--2019-2-15\FourthDimensionOEC\obj\Debug\netcoreapp2.1\FDOEC.AssemblyInfo.cs
+C:\Users\psssh\Desktop\FourthDimensionOEC--2019-2-15\FourthDimensionOEC\obj\Debug\netcoreapp2.1\FDOEC.TagHelpers.input.cache
+C:\Users\psssh\Desktop\FourthDimensionOEC--2019-2-15\FourthDimensionOEC\obj\Debug\netcoreapp2.1\FDOEC.TagHelpers.output.cache
+C:\Users\psssh\Desktop\FourthDimensionOEC--2019-2-15\FourthDimensionOEC\obj\Debug\netcoreapp2.1\FDOEC.RazorCoreGenerate.cache
+C:\Users\psssh\Desktop\FourthDimensionOEC--2019-2-15\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\psssh\Desktop\FourthDimensionOEC--2019-2-15\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\views\FDCrop\Create.g.cshtml.cs
+C:\Users\psssh\Desktop\FourthDimensionOEC--2019-2-15\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\views\FDCrop\Delete.g.cshtml.cs
+C:\Users\psssh\Desktop\FourthDimensionOEC--2019-2-15\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\views\FDCrop\Details.g.cshtml.cs
+C:\Users\psssh\Desktop\FourthDimensionOEC--2019-2-15\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\views\FDCrop\Edit.g.cshtml.cs
+C:\Users\psssh\Desktop\FourthDimensionOEC--2019-2-15\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\views\FDCrop\Index.g.cshtml.cs
+C:\Users\psssh\Desktop\FourthDimensionOEC--2019-2-15\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\views\FDFertilizer\Create.g.cshtml.cs
+C:\Users\psssh\Desktop\FourthDimensionOEC--2019-2-15\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\views\FDFertilizer\Delete.g.cshtml.cs
+C:\Users\psssh\Desktop\FourthDimensionOEC--2019-2-15\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\views\FDFertilizer\Details.g.cshtml.cs
+C:\Users\psssh\Desktop\FourthDimensionOEC--2019-2-15\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\views\FDFertilizer\Edit.g.cshtml.cs
+C:\Users\psssh\Desktop\FourthDimensionOEC--2019-2-15\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\views\FDFertilizer\Index.g.cshtml.cs
+C:\Users\psssh\Desktop\FourthDimensionOEC--2019-2-15\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\views\FDPlot\Create.g.cshtml.cs
+C:\Users\psssh\Desktop\FourthDimensionOEC--2019-2-15\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\views\FDPlot\Delete.g.cshtml.cs
+C:\Users\psssh\Desktop\FourthDimensionOEC--2019-2-15\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\views\FDPlot\Details.g.cshtml.cs
+C:\Users\psssh\Desktop\FourthDimensionOEC--2019-2-15\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\views\FDPlot\Edit.g.cshtml.cs
+C:\Users\psssh\Desktop\FourthDimensionOEC--2019-2-15\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\views\FDPlot\Index - Copy.g.cshtml.cs
+C:\Users\psssh\Desktop\FourthDimensionOEC--2019-2-15\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\views\FDPlot\Index.g.cshtml.cs
+C:\Users\psssh\Desktop\FourthDimensionOEC--2019-2-15\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\views\FDVariety\Create.g.cshtml.cs
+C:\Users\psssh\Desktop\FourthDimensionOEC--2019-2-15\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\views\FDVariety\Delete.g.cshtml.cs
+C:\Users\psssh\Desktop\FourthDimensionOEC--2019-2-15\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\views\FDVariety\Details.g.cshtml.cs
+C:\Users\psssh\Desktop\FourthDimensionOEC--2019-2-15\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\views\FDVariety\Edit.g.cshtml.cs
+C:\Users\psssh\Desktop\FourthDimensionOEC--2019-2-15\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\views\FDVariety\Index.g.cshtml.cs
+C:\Users\psssh\Desktop\FourthDimensionOEC--2019-2-15\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\views\Home\About.g.cshtml.cs
+C:\Users\psssh\Desktop\FourthDimensionOEC--2019-2-15\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\views\Home\Contact.g.cshtml.cs
+C:\Users\psssh\Desktop\FourthDimensionOEC--2019-2-15\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\views\Home\Index.g.cshtml.cs
+C:\Users\psssh\Desktop\FourthDimensionOEC--2019-2-15\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\views\Home\Privacy.g.cshtml.cs
+C:\Users\psssh\Desktop\FourthDimensionOEC--2019-2-15\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\views\Shared\Error.g.cshtml.cs
+C:\Users\psssh\Desktop\FourthDimensionOEC--2019-2-15\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\psssh\Desktop\FourthDimensionOEC--2019-2-15\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\views\Shared\_Layout.g.cshtml.cs
+C:\Users\psssh\Desktop\FourthDimensionOEC--2019-2-15\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\psssh\Desktop\FourthDimensionOEC--2019-2-15\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\psssh\Desktop\FourthDimensionOEC--2019-2-15\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\views\Varieties\Create.g.cshtml.cs
+C:\Users\psssh\Desktop\FourthDimensionOEC--2019-2-15\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\views\Varieties\Delete.g.cshtml.cs
+C:\Users\psssh\Desktop\FourthDimensionOEC--2019-2-15\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\views\Varieties\Details.g.cshtml.cs
+C:\Users\psssh\Desktop\FourthDimensionOEC--2019-2-15\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\views\Varieties\Edit.g.cshtml.cs
+C:\Users\psssh\Desktop\FourthDimensionOEC--2019-2-15\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\views\Varieties\Index.g.cshtml.cs
+C:\Users\psssh\Desktop\FourthDimensionOEC--2019-2-15\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\views\_ViewImports.g.cshtml.cs
+C:\Users\psssh\Desktop\FourthDimensionOEC--2019-2-15\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\views\_ViewStart.g.cshtml.cs
+C:\Users\psssh\Desktop\FourthDimensionOEC--2019-2-15\FourthDimensionOEC\obj\Debug\netcoreapp2.1\FDOEC.RazorTargetAssemblyInfo.cache
+C:\Users\psssh\Desktop\FourthDimensionOEC--2019-2-15\FourthDimensionOEC\obj\Debug\netcoreapp2.1\FDOEC.RazorTargetAssemblyInfo.cs
+C:\Users\psssh\Desktop\FourthDimensionOEC--2019-2-15\FourthDimensionOEC\obj\Debug\netcoreapp2.1\FDOEC.Views.pdb
+C:\Users\psssh\Desktop\FourthDimensionOEC--2019-2-15\FourthDimensionOEC\obj\Debug\netcoreapp2.1\FDOEC.dll
+C:\Users\psssh\Desktop\FourthDimensionOEC--2019-2-15\FourthDimensionOEC\obj\Debug\netcoreapp2.1\FDOEC.pdb
+C:\Users\psssh\Desktop\FourthDimensionOEC--2019-2-15\FourthDimensionOEC\obj\Debug\netcoreapp2.1\FDOEC.csproj.CopyComplete
+C:\Users\psssh\Desktop\FourthDimensionOEC\FourthDimensionOEC\bin\Debug\netcoreapp2.1\FDOEC.deps.json
+C:\Users\psssh\Desktop\FourthDimensionOEC\FourthDimensionOEC\bin\Debug\netcoreapp2.1\FDOEC.runtimeconfig.json
+C:\Users\psssh\Desktop\FourthDimensionOEC\FourthDimensionOEC\bin\Debug\netcoreapp2.1\FDOEC.runtimeconfig.dev.json
+C:\Users\psssh\Desktop\FourthDimensionOEC\FourthDimensionOEC\bin\Debug\netcoreapp2.1\FDOEC.dll
+C:\Users\psssh\Desktop\FourthDimensionOEC\FourthDimensionOEC\bin\Debug\netcoreapp2.1\FDOEC.pdb
+C:\Users\psssh\Desktop\FourthDimensionOEC\FourthDimensionOEC\bin\Debug\netcoreapp2.1\FDOEC.Views.dll
+C:\Users\psssh\Desktop\FourthDimensionOEC\FourthDimensionOEC\bin\Debug\netcoreapp2.1\FDOEC.Views.pdb
+C:\Users\psssh\Desktop\FourthDimensionOEC\FourthDimensionOEC\obj\Debug\netcoreapp2.1\FDOEC.csprojAssemblyReference.cache
+C:\Users\psssh\Desktop\FourthDimensionOEC\FourthDimensionOEC\obj\Debug\netcoreapp2.1\FDOEC.csproj.CoreCompileInputs.cache
+C:\Users\psssh\Desktop\FourthDimensionOEC\FourthDimensionOEC\obj\Debug\netcoreapp2.1\FDOEC.RazorAssemblyInfo.cache
+C:\Users\psssh\Desktop\FourthDimensionOEC\FourthDimensionOEC\obj\Debug\netcoreapp2.1\FDOEC.RazorAssemblyInfo.cs
+C:\Users\psssh\Desktop\FourthDimensionOEC\FourthDimensionOEC\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\psssh\Desktop\FourthDimensionOEC\FourthDimensionOEC\obj\Debug\netcoreapp2.1\FDOEC.AssemblyInfoInputs.cache
+C:\Users\psssh\Desktop\FourthDimensionOEC\FourthDimensionOEC\obj\Debug\netcoreapp2.1\FDOEC.AssemblyInfo.cs
+C:\Users\psssh\Desktop\FourthDimensionOEC\FourthDimensionOEC\obj\Debug\netcoreapp2.1\FDOEC.TagHelpers.input.cache
+C:\Users\psssh\Desktop\FourthDimensionOEC\FourthDimensionOEC\obj\Debug\netcoreapp2.1\FDOEC.TagHelpers.output.cache
+C:\Users\psssh\Desktop\FourthDimensionOEC\FourthDimensionOEC\obj\Debug\netcoreapp2.1\FDOEC.RazorCoreGenerate.cache
+C:\Users\psssh\Desktop\FourthDimensionOEC\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\psssh\Desktop\FourthDimensionOEC\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\views\FDCrop\Create.g.cshtml.cs
+C:\Users\psssh\Desktop\FourthDimensionOEC\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\views\FDCrop\Delete.g.cshtml.cs
+C:\Users\psssh\Desktop\FourthDimensionOEC\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\views\FDCrop\Details.g.cshtml.cs
+C:\Users\psssh\Desktop\FourthDimensionOEC\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\views\FDCrop\Edit.g.cshtml.cs
+C:\Users\psssh\Desktop\FourthDimensionOEC\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\views\FDCrop\Index.g.cshtml.cs
+C:\Users\psssh\Desktop\FourthDimensionOEC\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\views\FDFertilizer\Create.g.cshtml.cs
+C:\Users\psssh\Desktop\FourthDimensionOEC\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\views\FDFertilizer\Delete.g.cshtml.cs
+C:\Users\psssh\Desktop\FourthDimensionOEC\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\views\FDFertilizer\Details.g.cshtml.cs
+C:\Users\psssh\Desktop\FourthDimensionOEC\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\views\FDFertilizer\Edit.g.cshtml.cs
+C:\Users\psssh\Desktop\FourthDimensionOEC\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\views\FDFertilizer\Index.g.cshtml.cs
+C:\Users\psssh\Desktop\FourthDimensionOEC\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\views\FDPlot\Create.g.cshtml.cs
+C:\Users\psssh\Desktop\FourthDimensionOEC\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\views\FDPlot\Delete.g.cshtml.cs
+C:\Users\psssh\Desktop\FourthDimensionOEC\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\views\FDPlot\Details.g.cshtml.cs
+C:\Users\psssh\Desktop\FourthDimensionOEC\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\views\FDPlot\Edit.g.cshtml.cs
+C:\Users\psssh\Desktop\FourthDimensionOEC\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\views\FDPlot\Index - Copy.g.cshtml.cs
+C:\Users\psssh\Desktop\FourthDimensionOEC\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\views\FDPlot\Index.g.cshtml.cs
+C:\Users\psssh\Desktop\FourthDimensionOEC\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\views\FDVariety\Create.g.cshtml.cs
+C:\Users\psssh\Desktop\FourthDimensionOEC\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\views\FDVariety\Delete.g.cshtml.cs
+C:\Users\psssh\Desktop\FourthDimensionOEC\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\views\FDVariety\Details.g.cshtml.cs
+C:\Users\psssh\Desktop\FourthDimensionOEC\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\views\FDVariety\Edit.g.cshtml.cs
+C:\Users\psssh\Desktop\FourthDimensionOEC\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\views\FDVariety\Index.g.cshtml.cs
+C:\Users\psssh\Desktop\FourthDimensionOEC\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\views\Home\About.g.cshtml.cs
+C:\Users\psssh\Desktop\FourthDimensionOEC\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\views\Home\Contact.g.cshtml.cs
+C:\Users\psssh\Desktop\FourthDimensionOEC\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\views\Home\Index.g.cshtml.cs
+C:\Users\psssh\Desktop\FourthDimensionOEC\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\views\Home\Privacy.g.cshtml.cs
+C:\Users\psssh\Desktop\FourthDimensionOEC\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\views\Shared\Error.g.cshtml.cs
+C:\Users\psssh\Desktop\FourthDimensionOEC\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\psssh\Desktop\FourthDimensionOEC\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\views\Shared\_Layout.g.cshtml.cs
+C:\Users\psssh\Desktop\FourthDimensionOEC\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\psssh\Desktop\FourthDimensionOEC\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\psssh\Desktop\FourthDimensionOEC\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\views\Varieties\Create.g.cshtml.cs
+C:\Users\psssh\Desktop\FourthDimensionOEC\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\views\Varieties\Delete.g.cshtml.cs
+C:\Users\psssh\Desktop\FourthDimensionOEC\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\views\Varieties\Details.g.cshtml.cs
+C:\Users\psssh\Desktop\FourthDimensionOEC\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\views\Varieties\Edit.g.cshtml.cs
+C:\Users\psssh\Desktop\FourthDimensionOEC\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\views\Varieties\Index.g.cshtml.cs
+C:\Users\psssh\Desktop\FourthDimensionOEC\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\views\_ViewImports.g.cshtml.cs
+C:\Users\psssh\Desktop\FourthDimensionOEC\FourthDimensionOEC\obj\Debug\netcoreapp2.1\Razor\views\_ViewStart.g.cshtml.cs
+C:\Users\psssh\Desktop\FourthDimensionOEC\FourthDimensionOEC\obj\Debug\netcoreapp2.1\FDOEC.RazorTargetAssemblyInfo.cache
+C:\Users\psssh\Desktop\FourthDimensionOEC\FourthDimensionOEC\obj\Debug\netcoreapp2.1\FDOEC.RazorTargetAssemblyInfo.cs
+C:\Users\psssh\Desktop\FourthDimensionOEC\FourthDimensionOEC\obj\Debug\netcoreapp2.1\FDOEC.Views.pdb
+C:\Users\psssh\Desktop\FourthDimensionOEC\FourthDimensionOEC\obj\Debug\netcoreapp2.1\FDOEC.dll
+C:\Users\psssh\Desktop\FourthDimensionOEC\FourthDimensionOEC\obj\Debug\netcoreapp2.1\FDOEC.pdb
+C:\Users\psssh\Desktop\FourthDimensionOEC\FourthDimensionOEC\obj\Debug\netcoreapp2.1\FDOEC.csproj.CopyComplete

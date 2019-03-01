@@ -1,0 +1,2 @@
+﻿"Data Source=.\\sqlexpress;Initial Catalog=OEC;Integrated Security=True"
+Scaffold-DbContext –Connection "Data Source=.\sqlexpress;Initial Catalog=OEC;Integrated Security=True;" -Provider "Microsoft.EntityFrameworkCore.SqlServer" -OutputDir "Models" –Context “OECContext" –Verbose -Force
